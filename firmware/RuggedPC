@@ -1,0 +1,21 @@
+
+<RuggedPC>/<RuggedHandC62V>
+---------------------------------------------
+
+| Item                      | Description |
+|---------------------------|-------------|
+| Manufacturer              | RuggedPC |
+| Device                    | RuggedHandC62V or Kcosit K72H |
+| Website                   | hhttps://www.kcosit.com/Rugged-Handheld-PDA-Win10-1D2D-Barcode-Scanner-4GB-RAM-64GB-ROM-p1563970.html |
+| Vendor driver (Windows)   | [SileadTouch.sys](SileadTouch.sys) |
+| Extracted firmware        | [firmware_00.fw](firmware_00.fw) |
+| Firmware for gslx680-acpi | [silead_ts.fw](silead_ts.fw) |
+| Display resolution        | 1280X720 |
+| Touch panel resolution    | unknown |
+| Touch controller          | GSLxxxx, you should open your device and verify this |
+| Multitouch support        | Yes (10 of recognized touch points)|
+| Finger tracking           | No |
+| Mirrored horizontally     | No |
+| Mirrored vertically       | No |
+| Axes swapped              | Yes |
+| Comments                  | not sure |
