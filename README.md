@@ -78,6 +78,8 @@ for copyright information.
 | Multilaser    | M11W                            | yes     | [firmware/multilaser/m11w](firmware/multilaser/m11w)           |
 | RWC           | NANOTE P8                       | yes     | [firmware/rwc/nanote-p8](firmware/rwc/nanote-p8)               |
 | viglen           | connect10"                       | yes     | [firmware/vliglen/connect10](firmware/viglen/connect10)               |
+| KCOSIT           | K72H-Rugged     | yes     | [firmware/firmware_00.fw](firmware/firmware_00.fw)                     |
+
 
 
 ## Adding new firmware
